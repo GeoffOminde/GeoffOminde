@@ -1,6 +1,6 @@
 # Hi, I'm Geoffrey Ominde 👋  
 
-💻 Full-Stack Developer | 📊 Data & AI Enthusiast | 🚀 Builder of Practical AI Solutions  
+💻 Developer | 📊 Data & AI Enthusiast | 🚀 Builder of Practical AI Solutions  
 
 ---
 
