@@ -14,7 +14,9 @@
 - 📚 Learning: **Laravel + React full-stack development**  
 
 ---
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 
+---
 ## 🛠️ Tech Stack  
 <!-- Languages -->
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
