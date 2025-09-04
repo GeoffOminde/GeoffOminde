@@ -61,30 +61,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-**AI in East Africa Healthcare**  
-AI-driven tooling for access, efficiency, and quality improvement in healthcare.
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-**AI Toilet Platform**  
-Smart sanitation management using IoT + AI for predictive servicing and optimized routes.
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-![n8n](https://img.shields.io/badge/n8n-EA4B8B?style=flat&logo=n8n&logoColor=white)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
 <details>
   <summary>More details</summary>
 
