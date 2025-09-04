@@ -49,14 +49,8 @@
 
  ## 📈 GitHub Stats
 
-![Geoffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeoffOminde&show_icons=true&theme=radical)
+![Geoffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeoffOminde&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoffOminde&layout=compact&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoffOminde&layout=compact&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=GeoffOminde&theme=radical)](https://git.io/streak-stats)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=GeoffOminde&theme=onedark&margin-w=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
