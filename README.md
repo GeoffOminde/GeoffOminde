@@ -49,7 +49,7 @@
 
  ## 📈 GitHub Stats
 
-![Geoffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeoffOminde&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoffOminde&layout=compact&theme=radical)
+![Geoffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeoffOminde&show_icons=true&theme=radical)       ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoffOminde&layout=compact&theme=radical)
 
 
 
@@ -69,9 +69,6 @@
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/OmindeGeoff)
-
-[![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geoffominde8@gmail.com)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/OmindeGeoff)            [![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geoffominde8@gmail.com)
 
