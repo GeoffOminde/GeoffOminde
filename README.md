@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Geoffrey Ominde 👋  
 
-<!--
-**GeoffOminde/GeoffOminde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer | 📊 Data & AI Enthusiast | 🚀 Builder of Practical AI Solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🌍 Based in Nairobi, Kenya  
+- 💡 Passionate about **AI-driven solutions** that solve real problems in Africa  
+- 🔭 Currently building:  
+  - **AI in East Africa Healthcare** → Leveraging AI to improve access, efficiency, and quality of healthcare  
+  - **AI Toilet Platform** → Smart sanitation management using IoT + AI for predictive servicing  
+- 🎯 Interests: AI Applications, Data Consulting, Customer Experience, and Automation  
+- 📚 Learning: **Laravel + React full-stack development**  
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** PHP, JavaScript, Python, SQL  
+- **Frameworks:** Laravel, React, Django  
+- **Databases:** MySQL, Supabase  
+- **Other Tools:** n8n automation, AI integrations, GitHub Actions  
+
+---
+
+## 🌐 Connect with Me  
+[Twitter](https://x.com/OmindeGeoff)) | [Email](mailto:geoffominde8@gmail.com)  
