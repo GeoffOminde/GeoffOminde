@@ -66,6 +66,11 @@
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=GeoffOminde&style=flat-square)
 
+## 💖 Support This Project
+If you find this project useful, you can support me here:  
+
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/ncp/payment/DJRA4NBKP2TFN)
+
 
 ## 🌐 Connect
 
