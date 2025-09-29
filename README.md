@@ -1,17 +1,17 @@
 # Hi, I'm Geoffrey Ominde 👋  
 
-💻 Developer | 📊 Data & AI Enthusiast | 🚀 Builder of Practical AI Solutions  
+ Developer |  Data & AI Enthusiast |  Builder of Practical AI Solutions  
 
 ---
 
-## 🚀 About Me  
-- 🌍 Based in Nakuru, Kenya  
-- 💡 Passionate about **AI-driven solutions** that solve real problems in Africa  
-- 🔭 Currently building:  
+##  About Me  
+-  Based in Kenya  
+-  Passionate about **AI-driven solutions** that solve real problems in Africa  
+-  Currently building:  
   - **AI in East Africa Healthcare** → Leveraging AI to improve access, efficiency, and quality of healthcare  
   - **AI Toilet Platform** → Smart sanitation management using IoT + AI for predictive servicing  
-- 🎯 Interests: AI Applications, Data Consulting, Customer Experience, and Automation  
-- 📚 Learning: **Laravel + React full-stack development**  
+-  Interests: AI Applications, Data Consulting, Customer Experience, and Automation  
+-  Learning: **Laravel + React full-stack development**  
 
 ---
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
@@ -66,13 +66,13 @@
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=GeoffOminde&style=flat-square)
 
-## 💖 Support 
+##  Support 
   - You can support me here:  
 
 [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/ncp/payment/DJRA4NBKP2TFN)
 
 
-## 🌐 Connect
+##  Connect
 
 
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/OmindeGeoff)            [![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geoffominde8@gmail.com)
