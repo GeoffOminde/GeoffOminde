@@ -11,7 +11,7 @@
   - **AI in East Africa Healthcare** → Leveraging AI to improve access, efficiency, and quality of healthcare  
   - **AI Toilet Platform** → Smart sanitation management using IoT + AI for predictive servicing  
 -  Interests: AI Applications, Data Consulting, Customer Experience, and Automation  
--  Learning: **Laravel + React full-stack development**  
+-  Learning: **A.I and it's impact to various fields**  
 
 ---
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
