@@ -25,7 +25,7 @@
 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-<!-- Frameworks -->
+## Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -34,7 +34,7 @@
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-<!-- Databases / Tools -->
+ ## Databases / Tools 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -50,16 +50,6 @@
 ![Geoffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeoffOminde&show_icons=true&theme=radical)       ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoffOminde&layout=compact&theme=radical)
 
 
-
----
-
-<details>
-  <summary>More details</summary>
-
-  - Roadmap
-  - Architecture diagrams
-  - Links to docs/demo
-</details>
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=GeoffOminde&style=flat-square)
