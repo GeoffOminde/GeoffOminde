@@ -23,8 +23,10 @@ I don’t just analyze data, I understand the business logic behind it. Using Pr
 My expertise lies in AI-human collaboration, helping businesses make data-backed decisions faster and more accurately.
 
 ---
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 
+<p align="center">
+ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
+</p>
 ---
 ## 🛠️ Tech Stack  
 
@@ -65,4 +67,3 @@ My expertise lies in AI-human collaboration, helping businesses make data-backed
 
 
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/OmindeGeoff)            [![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geoffominde8@gmail.com)
-
