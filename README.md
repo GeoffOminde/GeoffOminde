@@ -50,7 +50,8 @@ My expertise lies in AI-human collaboration, helping businesses make data-backed
 
  ## 📈 GitHub Stats
 
-![Geoffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeoffOminde&show_icons=true&theme=radical)       ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoffOminde&layout=compact&theme=radical)
+![Geoffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeoffOminde&show_icons=true&theme=radical)       
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoffOminde&layout=compact&theme=radical)
 
 
 
