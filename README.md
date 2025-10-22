@@ -1,3 +1,5 @@
+linkedin_cover.png
+
 # Hi, I'm Geoffrey Ominde 👋  
 
  Developer |  Data & AI Enthusiast |  Builder of Practical AI Solutions  
