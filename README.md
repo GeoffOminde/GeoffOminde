@@ -58,6 +58,9 @@ My expertise lies in AI-human collaboration, helping businesses make data-backed
 
 
 
+
+
+
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=GeoffOminde&style=flat-square)
 
