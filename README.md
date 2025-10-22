@@ -11,7 +11,11 @@
   - **AI in East Africa Healthcare** → Leveraging AI to improve access, efficiency, and quality of healthcare  
   - **AI Toilet Platform** → Smart sanitation management using IoT + AI for predictive servicing  
 -  Interests: AI Applications, Data Consulting, Customer Experience, and Automation  
--  Learning: **A.I and it's impact to various fields**  
+-  I’m a PromptBI Certified Data Analyst skilled in using AI to solve real business problems, from revenue forecasting to churn prediction.
+
+I don’t just analyze data, I understand the business logic behind it. Using PromptBI, I simulate real-world company environments (like retail, logistics, or finance), identify insights that drive growth, and communicate them to decision-makers.
+
+My expertise lies in AI-human collaboration, helping businesses make data-backed decisions faster and more accurately.
 
 ---
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
