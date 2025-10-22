@@ -1,4 +1,4 @@
-linkedin_cover.png
+[linkedin_cover.png](https://github.com/GeoffOminde/GeoffOminde/blob/8b5c7c51c084095ab33868d6e9a287e995689552/linkedin_cover.png)
 
 # Hi, I'm Geoffrey Ominde 👋  
 
