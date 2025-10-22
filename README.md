@@ -27,7 +27,9 @@ My expertise lies in AI-human collaboration, helping businesses make data-backed
 <p align="center">
  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </p>
+
 ---
+
 ## 🛠️ Tech Stack  
 
 ### 🧠 AI & Analytics Tools  
@@ -51,7 +53,8 @@ My expertise lies in AI-human collaboration, helping businesses make data-backed
  ## 📈 GitHub Stats
 
 ![Geoffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeoffOminde&show_icons=true&theme=radical)       
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoffOminde&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GeoffOminde&layout=compact&theme=radical)
+
 
 
 
