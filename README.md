@@ -1,7 +1,3 @@
-![LinkedIn Cover](./linkedin_cover.png)
-
-
-
 
 # Hi, I'm Geoffrey Ominde 👋  
 
@@ -18,9 +14,7 @@
 -  Interests: AI Applications, Data Consulting, Customer Experience, and Automation  
 -  I’m a PromptBI Certified Data Analyst skilled in using AI to solve real business problems, from revenue forecasting to churn prediction.
 
-I don’t just analyze data, I understand the business logic behind it. Using PromptBI, I simulate real-world company environments (like retail, logistics, or finance), identify insights that drive growth, and communicate them to decision-makers.
 
-My expertise lies in AI-human collaboration, helping businesses make data-backed decisions faster and more accurately.
 
 ---
 
