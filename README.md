@@ -8,8 +8,7 @@
 ##  About Me  
 -  Based in Kenya  
 -  Passionate about **AI-driven solutions** that solve real problems in Africa  
--  Currently building:  
-  - **AI in East Africa Healthcare** → Leveraging AI to improve access, efficiency, and quality of healthcare  
+-  Currently building:   
   - **AI Toilet Platform** → Smart sanitation management using IoT + AI for predictive servicing  
 -  Interests: AI Applications, Data Consulting, Customer Experience, and Automation  
 -  I’m a PromptBI Certified Data Analyst skilled in using AI to solve real business problems, from revenue forecasting to churn prediction.
@@ -47,7 +46,7 @@
  ## 📈 GitHub Stats
 
 ![Geoffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeoffOminde&show_icons=true&theme=radical)       
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GeoffOminde&layout=compact&theme=radical)
+
 
 
 
